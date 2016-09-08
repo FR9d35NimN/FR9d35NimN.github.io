@@ -1,0 +1,179 @@
+/* WEB FONT 2016.9.1 */
+html[lang=zh-TW] .more::after,
+html[lang=zh-TW] .more .icon-htc,
+html[lang=zh-TW] .icon-downloadsolid::before,
+html[lang=zh-TW] .icon-downloadsolid::after,
+html[lang=zh-TW] .icon-chevronright::before,
+html[lang=zh-TW] .icon-chevronright::after { top: -1.5px; }
+
+.icon-playcircle:before,
+.icon-playcircle:after { top:-2px; }
+
+html[lang=zh-TW] .more.myriad_top::before,
+html[lang=zh-TW] .more.myriad_top::after,
+html[lang=zh-TW] .more.myriad_top .icon-htc { top: 0px; }
+
+html[lang=zh-TW] .centeralign { padding-left: 0.4em; }
+@media only screen and (max-width: 735px) { html[lang=zh-TW] .centeralign { padding-left: 0; } }
+@media only screen and (max-width: 735px) and (max-device-width: 768px) { html[lang=zh-TW] .centeralign { padding-left: 0; } }
+
+
+html[lang=zh-TW] sup.star {font-size: 0.8em;}
+html[lang=zh-TW] h1 sup.star, html[lang=zh-TW] h2 sup.star, html[lang=zh-TW] h3 sup.star {font-size: 0.5em;}
+
+html[lang=zh-TW] body{font-family: 'PingFang TC', 'Helvetica Neue', 'Helvetica', 'STHeitiTC-Light', 'Arial', sans-serif; font-size: 16px; line-height: 1.8;}
+
+html[lang=zh-TW] h1,
+html[lang=zh-TW] h2,
+html[lang=zh-TW] h3,
+html[lang=zh-TW] h4,
+html[lang=zh-TW] a,
+html[lang=zh-TW] .localnav-link,
+html[lang=zh-TW] .button-buynow,
+html[lang=zh-TW] .button-compact,
+html[lang=zh-TW] .intro,
+html[lang=zh-TW] .hero-headline,
+html[lang=zh-TW] .section-headline,
+html[lang=zh-TW] .subsection-headline,
+html[lang=zh-TW] .subsection-subheadline,
+html[lang=zh-TW] #ac-localnav,
+html[lang=zh-TW] #ac-localnav select,
+html[lang=zh-TW] #ac-localnav button,
+html[lang=zh-TW] #ac-localnav .ac-ln-button,
+html[lang=zh-TW] #ac-globalfooter .ac-gf-buystrip-info-copy,
+html[lang=zh-TW] #ac-globalfooter .ac-gf-buystrip-hero-title,
+html[lang=zh-TW] #ac-globalfooter .ac-gf-buystrip-info-title,
+html[lang=zh-TW] #ac-globalfooter a.ac-gf-block .ac-gf-block-link,
+html[lang=zh-TW] #ac-globalfooter .ac-gf-sosumi p,
+html[lang=zh-TW] #ac-globalfooter .ac-gf-sosumi li,
+html[lang=zh-TW] #ac-globalfooter .ac-gf-buystrip-info-caption,
+html[lang=zh-TW] #ac-globalfooter,
+html[lang=zh-TW] #ac-globalfooter select,
+html[lang=zh-TW] #ac-globalfooter button,
+html[lang=zh-TW] span.badge-half,
+html[lang=zh-TW] span.badge-small,
+html[lang=zh-HK] h1 br,
+html[lang=zh-HK] h2 br,
+html[lang=zh-HK] h3 br,
+html[lang=zh-HK] h4 br,
+.badge-half:lang(zh-TW),
+.violator:lang(zh-TW) {
+   font-family: 'HanHei TC', 'PingFang TC', 'Helvetica Neue', 'Helvetica', 'STHeitiTC-Light', 'Arial', sans-serif;
+}
+
+
+html[lang=zh-TW] #ac-globalfooter .ac-gf-more::after,
+html[lang=zh-TW] #ac-globalfooter .ac-gf-more .icon-htc{top:-1px;}
+
+
+/* badge */
+html[lang=zh-TW] span.badge-large,
+html[lang=zh-TW] span.badge-half.myriad,
+html[lang=zh-TW] .myriad,
+html[lang=zh-TW] span.badge-small.myriad{font-family: "Myriad Set Pro", 'PingFang TC', 'Helvetica Neue', 'Helvetica', 'STHeitiTC-Light', 'Arial', sans-serif;}
+
+html[lang=zh-TW] .badge-small{font-size: 15px;}
+@media only screen and (max-width: 1024px) {html[lang=zh-TW] .badge-small{font-size: 12px;}}
+@media only screen and (max-width: 735px) {html[lang=zh-TW] .badge-small{font-size: 12px;}}
+
+html[lang=zh-TW] span.badge-half{ font-size: 0.3em;}
+html[lang=zh-TW] span.badge-half.myriad{ font-size: 0.5em;}
+
+html[lang=zh-TW] span.badge-half.seven{ margin-left:-0.1em; }
+
+html[lang=zh-TW] .intro,
+html[lang=zh-TW] .elevated-copy,
+html[lang=zh-TW] .elevated-intro{line-height: 1.6;}
+html[lang=zh-TW] .main .body-copy{line-height: 1.8;}
+
+
+/* <br> 在不同 viewport 的 换行 Show & Hide Start */
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {html[lang=zh-TW] br.hide-for-small {display: none}}
+
+@media only screen and (max-width: 1024px) {html[lang=zh-TW] br.hide-for-medium {display: none}}
+
+html[lang=zh-TW] br.hide-for-large {display: none}
+@media only screen and (max-width: 1024px) {html[lang=zh-TW] br.hide-for-large {display: block}}
+
+
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {html[lang=zh-TW] br.show-for-small {display: block}}
+
+@media only screen and (max-width: 320px) and (max-device-width: 375px) {html[lang=zh-TW] br.hide-for-xsmall {display: none}}
+
+@media only screen and (max-width: 1024px) {html[lang=zh-TW] br.show-for-medium {display: block}}
+
+html[lang=zh-TW] br.show-for-large {display: block}
+
+
+html[lang=zh-TW] br.show-only-for-small {display: none}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {html[lang=zh-TW] br.show-only-for-small {display: block}}
+
+html[lang=zh-TW] br.show-only-for-medium {display: none}
+@media only screen and (max-width: 1024px) {html[lang=zh-TW] br.show-only-for-medium {display: block}}
+@media only screen and (max-width: 1068px) {html[lang=zh-TW] br.show-only-for-medium {display: block}}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {html[lang=zh-TW] br.show-only-for-medium {display: none}}
+
+html[lang=zh-TW] br.show-only-for-large {display: block}
+@media only screen and (max-width: 1024px) {html[lang=zh-TW] br.show-only-for-large {display: none}}
+@media only screen and (max-width: 1068px) {html[lang=zh-TW] br.show-only-for-large {display: none}}
+@media only screen and (max-width: 735px) and (max-device-width: 768px) {html[lang=zh-TW] br.show-only-for-large {display: none}}
+
+br.show-only-for-xsmall {display: none}
+@media only screen and (max-width: 320px) and (max-device-width: 375px) {html[lang=zh-TW] br.show-only-for-xsmall {display: block}}
+
+html[lang=zh-TW] br.small-hide {display: none}
+html[lang=zh-TW] br.small-show {display: block}
+
+@media only screen and (min-width: 736px) {
+html[lang=zh-TW] br.medium-hide {display: none}
+html[lang=zh-TW] br.medium-show {display: block}}
+
+@media only screen and (min-width: 1069px) {
+html[lang=zh-TW] br.large-hide {display: none}
+html[lang=zh-TW] br.large-show {display: block}}
+
+@media only screen and (min-width: 1442px) {
+html[lang=zh-TW] br.xlarge-hide {display: none}
+html[lang=zh-TW] br.xlarge-show {display: block}}
+
+
+/* <br> 在不同 viewport 的 换行 Show & Hide End*/
+
+/*2016-03-09 替换美国 :lang(zh-TW) 属性*/
+
+:lang(zh-TW) h1,
+:lang(zh-TW) h2,
+:lang(zh-TW) h3,
+:lang(zh-TW) h4,
+:lang(zh-TW) a,
+:lang(zh-TW) .localnav-link,
+:lang(zh-TW) .button-buynow,
+:lang(zh-TW) .button-compact,
+:lang(zh-TW) .intro,
+:lang(zh-TW) .hero-headline,
+:lang(zh-TW) .section-headline,
+:lang(zh-TW) .subsection-headline,
+:lang(zh-TW) .subsection-subheadline,
+:lang(zh-TW) #ac-localnav,
+:lang(zh-TW) #ac-localnav select,
+:lang(zh-TW) #ac-localnav button,
+:lang(zh-TW) #ac-localnav .ac-ln-button,
+:lang(zh-TW) #ac-globalfooter .ac-gf-buystrip-info-copy,
+:lang(zh-TW) #ac-globalfooter .ac-gf-buystrip-hero-title,
+:lang(zh-TW) #ac-globalfooter .ac-gf-buystrip-info-title,
+:lang(zh-TW) #ac-globalfooter a.ac-gf-block .ac-gf-block-link,
+:lang(zh-TW) #ac-globalfooter .ac-gf-sosumi p,
+:lang(zh-TW) #ac-globalfooter .ac-gf-sosumi li,
+:lang(zh-TW) #ac-globalfooter .ac-gf-buystrip-info-caption,
+:lang(zh-TW) #ac-globalfooter,
+:lang(zh-TW) #ac-globalfooter select,
+:lang(zh-TW) #ac-globalfooter button,
+:lang(zh-TW) span.badge-half,
+:lang(zh-TW) span.badge-small,
+:lang(zh-TW) h1 br,
+:lang(zh-TW) h2 br,
+:lang(zh-TW) h3 br,
+:lang(zh-TW) h4 br {
+   font-family: 'HanHei TC', 'PingFang TC', 'Helvetica Neue', 'Helvetica', 'STHeitiTC-Light', 'Arial', sans-serif;
+}
+/*end */

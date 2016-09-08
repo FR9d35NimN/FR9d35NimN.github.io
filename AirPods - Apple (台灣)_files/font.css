@@ -1,0 +1,11 @@
+/*WEB FONT 2016.08.31*/
+
+html[lang=zh-TW] body,
+html[lang=zh-TW] p,
+html[lang=zh-TW] a {
+    font-family: 'PingFang HK', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+html[lang=zh-TW] .typography-hero-intro,
+html[lang=zh-TW] .typography-intro{font-family: "HanHei TC", "PingFang HK", "Helvetica Neue", "Helvetica", "Arial", sans-serif}
+
+html[lang=zh-TW] .typography-smallblock-headline{font-size: 17px;}
